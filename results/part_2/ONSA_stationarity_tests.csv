@@ -1,0 +1,3 @@
+series,n,ADF_statistic,ADF_p_value,ADF_selected_lags,KPSS_statistic,KPSS_p_value_reported_bound,KPSS_selected_lags
+Raw training Up displacement (mm),1477,-2.643463081537988,0.0843428554979716,20,1.3184306884360413,0.01,24
+Training first difference (mm/day),1476,-14.15900859947293,2.096960253403415e-26,19,0.03383443022493505,0.1,43
