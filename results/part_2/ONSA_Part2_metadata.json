@@ -1,0 +1,60 @@
+{
+  "station": "ONSA",
+  "reference_frame": "IGS20",
+  "dataset": "ONSA_Continuous_2003-08-30_to_2009-06-08.csv",
+  "source_sha256": "cb418488de80309e41354a9eeda49905f50e49743ac357211b500315a36c4587",
+  "fixed_split": {
+    "train_n": 1477,
+    "validation_n": 316,
+    "test_n": 317,
+    "first_test_date": "2008-07-27",
+    "last_test_date": "2009-06-08"
+  },
+  "forecast_horizon": "rolling observed-history one-day-ahead (not multi-day open-loop)",
+  "selection": "minimize validation RMSE; training-only parameter estimates; refit on train+validation after selection",
+  "ADF_and_KPSS_on": "training period only",
+  "selected_d": 1,
+  "AR_and_MA_input": "first differences (mm/day)",
+  "AR_MA_level_recovery": "add predicted daily change to previous observed level",
+  "selected_orders": {
+    "AR": [
+      7,
+      0,
+      0
+    ],
+    "MA": [
+      0,
+      0,
+      5
+    ],
+    "ARIMA": [
+      3,
+      1,
+      1
+    ]
+  },
+  "mape": "MAPE excludes exactly zero actual displacement; alternative excludes abs(actual)<1 mm; percentage errors around zero are intrinsically unstable",
+  "primary_metrics": [
+    "RMSE_mm",
+    "MAE_mm"
+  ],
+  "seasonal_comparison": "Fourier-ARIMA with annual and semiannual harmonic regressors, NOT classical SARIMA",
+  "sarima_task9_optional": "Not claimed as a classical SARIMA implementation",
+  "external_observations_after_2009_06_08": "reserved and not used for model selection or evaluation",
+  "tasks_completed": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "task9": "optional; Fourier-ARIMA included if fit succeeded",
+  "remaining_tasks": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "saved_utc": "2026-11-03T17:56:29.805185+00:00"
+}
