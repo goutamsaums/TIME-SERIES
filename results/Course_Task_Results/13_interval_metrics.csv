@@ -1,9 +1,0 @@
-method,axis,prediction_interval_coverage_percent,mean_prediction_interval_width_mm
-Raw quantiles,East,98.10725552050474,5.175174095537767
-Raw quantiles,North,95.89905362776025,4.758097426616612
-Raw quantiles,Up,98.42271293375394,18.169697824065793
-Raw quantiles,"Joint East, North and Up",92.74447949526814,9.367656448740055
-Joint calibrated,East,99.6845425867508,5.957264913024215
-Joint calibrated,North,98.73817034700315,5.581973415467555
-Joint calibrated,Up,99.36908517350159,21.08746437724392
-Joint calibrated,"Joint East, North and Up",97.79179810725552,10.875567568578562
