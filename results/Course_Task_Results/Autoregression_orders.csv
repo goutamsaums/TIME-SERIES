@@ -1,0 +1,4 @@
+model,axis,order,selection_root_mean_square_error
+Autoregression,East,"(5, 0, 0)",1.2358445735376067
+Autoregression,North,"(4, 0, 0)",0.9441072344643626
+Autoregression,Up,"(5, 0, 0)",4.653587631645992

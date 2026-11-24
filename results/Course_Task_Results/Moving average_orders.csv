@@ -1,0 +1,4 @@
+model,axis,order,selection_root_mean_square_error
+Moving average,East,"(0, 0, 5)",4.65303069887141
+Moving average,North,"(0, 0, 5)",4.2562101344220675
+Moving average,Up,"(0, 0, 4)",4.699249404718345

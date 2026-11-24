@@ -1,0 +1,9 @@
+method,axis,prediction_interval_coverage_percent,mean_prediction_interval_width_mm
+Quantile long short-term memory,East,98.23741007194245,5.9568632921300075
+Quantile long short-term memory,North,97.9136690647482,5.581711726150408
+Quantile long short-term memory,Up,98.39928057553958,21.086307149632933
+Quantile long short-term memory,"Joint East, North and Up",94.94604316546763,10.874960722637782
+Persistence,East,97.6978417266187,5.541910616722333
+Persistence,North,98.38129496402878,5.838001146912575
+Persistence,Up,98.20143884892086,20.675350070141246
+Persistence,"Joint East, North and Up",94.7841726618705,10.685087277925385

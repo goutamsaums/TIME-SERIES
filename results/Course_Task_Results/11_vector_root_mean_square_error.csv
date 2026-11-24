@@ -1,0 +1,8 @@
+model,vector_root_mean_square_error_mm
+Long short-term memory,3.9190187302042965
+Recurrent neural network,3.9387064539202092
+Autoregressive integrated moving average,3.9519974776066107
+Autoregression,4.033123994821129
+Seasonal autoregressive integrated moving average,4.071354544026343
+Persistence,4.181727616542906
+Moving average,9.999866842268341

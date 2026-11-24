@@ -1,0 +1,4 @@
+axis,series,augmented_dickey_fuller_statistic,augmented_dickey_fuller_probability,kwiatkowski_phillips_schmidt_shin_statistic,kwiatkowski_phillips_schmidt_shin_probability_bound
+East,level,-0.9192009760090023,0.781583517136921,5.64712977455057,0.01
+North,level,-0.5703205148416366,0.8775483458754403,5.7692399705476936,0.01
+Up,level,-2.643463081537988,0.0843428554979716,1.3184306884360413,0.01
