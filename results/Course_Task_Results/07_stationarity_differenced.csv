@@ -1,0 +1,4 @@
+axis,series,augmented_dickey_fuller_statistic,augmented_dickey_fuller_probability,kwiatkowski_phillips_schmidt_shin_statistic,kwiatkowski_phillips_schmidt_shin_probability_bound
+East,first difference,-14.422060396515736,7.882142374069053e-27,0.08151709537349881,0.1
+North,first difference,-20.570403036090646,0.0,0.04314082206826036,0.1
+Up,first difference,-14.15900859947293,2.096960253403415e-26,0.03383443022493505,0.1

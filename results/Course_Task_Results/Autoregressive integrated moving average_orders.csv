@@ -1,0 +1,4 @@
+model,axis,order,selection_root_mean_square_error
+Autoregressive integrated moving average,East,"(1, 1, 2)",1.2245330153762384
+Autoregressive integrated moving average,North,"(0, 1, 2)",0.9429922355910508
+Autoregressive integrated moving average,Up,"(2, 1, 2)",4.640607269869451
