@@ -25,7 +25,6 @@ results/
   Exploratory_Data_Analysis/  Descriptive plots and decomposition diagnostics
   Course_Task_Results/       Metrics, predictions, figures, saved models and review ledger
 documents/                  Final A4 project report and A0 poster (PDF)
-latex/                      Editable report and poster sources, assets and compile notes
 requirements.txt            Python dependencies
 ```
 
