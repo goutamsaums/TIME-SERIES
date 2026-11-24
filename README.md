@@ -9,7 +9,7 @@ Advanced Pattern Recognition — Master of Science in Data Science and Artificia
 
 https://colab.research.google.com/drive/15wKpNDbfb7GtkbmmHpDm3mIH54rRrw7_?usp=sharing  
 
-[Open the executed notebook in Google Colab](https://colab.research.google.com/github/goutamsaums/TIME-SERIES/blob/main/notebooks/ONSA_GNSS_Coordinate_Forecasting.ipynb) · [Project report](documents/ONSA_GNSS_Project_Report.pdf) · [A0 academic poster](documents/ONSA_GNSS_A0_Poster.pdf)
+[Open the executed notebook in Google Colab](https://colab.research.google.com/github/goutamsaums/TIME-SERIES/blob/main/notebooks/ONSA_GNSS_Coordinate_Forecasting.ipynb) · [Project report](documents/ONSA_GNSS_Project_Report.pdf) · [Academic poster](documents/ONSA_GNSS_A0_Poster.pdf)
 
 ## Objective
 
