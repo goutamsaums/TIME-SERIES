@@ -59,5 +59,4 @@ The archive contains 11,835 daily solutions over 12,349 calendar days (95.84% av
 | Persistence | 4.1817 |
 | Moving average | 9.9999 |
 
-The best observed historical error is 6.28% below persistence. The jointly calibrated quantile networks cover 97.79% of 317 historical test dates and 94.95% of 5,560 later matched dates. Later calibrated persistence covers 94.78% with slightly narrower intervals. These small differences do not establish general model superiority.
 
